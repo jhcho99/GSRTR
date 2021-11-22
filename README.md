@@ -1,5 +1,5 @@
 # Grounded Situation Recognition with Transformers
-[Paper](https://github.com/jhcho99/gsrtr) | [Model Checkpoint](https://drive.google.com/u/0/uc?export=download&confirm=0rzA&id=18Sfdbob0i54DLOplEhCV2zngMVljg6eh) 
+[Paper](https://arxiv.org/abs/2111.10135) | [Model Checkpoint](https://drive.google.com/u/0/uc?export=download&confirm=0rzA&id=18Sfdbob0i54DLOplEhCV2zngMVljg6eh) 
 
 - This is the official PyTorch implementation of Grounded Situation Recognition with Transformers (BMVC 2021). 
 - **GSRTR** (**G**rounded **S**ituation **R**ecognition **TR**ansformer) achieves state of the art in all evaluation metrics on the SWiG benchmark.
@@ -12,7 +12,7 @@ Grounded Situation Recognition (GSR) is the task that not only classifies a sali
 
 ![model](https://user-images.githubusercontent.com/55849968/135632419-e5a10fb9-ec2c-465c-8b9b-4d0c6f69b5b4.png)
 
-GSRTR mainly consists of two components: Transformer Encoder for verb prediction, and Transformer Decoder for grounded noun prediction. For details, please see [Grounded Situation Recognition with Transformers](https://github.com/jhcho99/gsrtr) by Junhyeong Cho, Youngseok Yoon, Hyeonjun Lee and Suha Kwak.
+GSRTR mainly consists of two components: Transformer Encoder for verb prediction, and Transformer Decoder for grounded noun prediction. For details, please see [Grounded Situation Recognition with Transformers](https://arxiv.org/abs/2111.10135) by Junhyeong Cho, Youngseok Yoon, Hyeonjun Lee and Suha Kwak.
 
 ## Environment Setup
 We provide instructions for environment setup.
