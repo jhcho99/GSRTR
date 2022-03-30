@@ -1,7 +1,7 @@
-# Grounded Situation Recognition with Transformers
+# [BMVC'21] Grounded Situation Recognition with Transformers
 [Paper](https://arxiv.org/abs/2111.10135) | [Model Checkpoint](https://drive.google.com/u/0/uc?export=download&confirm=0rzA&id=18Sfdbob0i54DLOplEhCV2zngMVljg6eh) 
 
-- This is the official PyTorch implementation of Grounded Situation Recognition with Transformers (BMVC 2021). 
+- This is the official PyTorch implementation of Grounded Situation Recognition with Transformers. 
 - **GSRTR** (**G**rounded **S**ituation **R**ecognition **TR**ansformer) achieves state of the art in all evaluation metrics on the SWiG benchmark.
 - This repository contains instructions, code and model checkpoint.
 
